@@ -10,7 +10,7 @@ $workflow_config = array();
 /* Database user name with privileges to create databases and users. It is also
  * used for alias if no db-user specified
  */
-$workflow_config['db_user'] = 'root';
+$workflow_config['db_user'] = 'workflow_root';
 
 /* Database user password with privileges to create databases and users. It is also
  * used for alias if no db-pwd specified
